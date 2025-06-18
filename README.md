@@ -237,9 +237,9 @@ graph TD
 │  Original Image → Grad-CAM Heatmap  │
 │  [Placeholder for result images]    │
 │                                     │
-│  📊 Feature Importance (SHAP)       │
+│  📊 Feature Importance (SHAP)      │
 │  📈 LIME Explanations              │
-│  🎯 Attention Visualization         │
+│  🎯 Attention Visualization        │
 └─────────────────────────────────────┘
 ```
 
